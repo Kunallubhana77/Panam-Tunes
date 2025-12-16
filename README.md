@@ -157,6 +157,31 @@ Panam Tunes provides access to music from:
 
 ---
 
+## ☕ Support the Project
+
+Love Panam Tunes? Help us keep it free and add amazing new features!
+
+<div align="center">
+  
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/KaranPappuLubhana)
+  
+</div>
+
+### 🎯 Upcoming Features with Your Support
+
+Your support helps us develop exciting new features:
+
+- 🔔 **Push Notification Service** - Get notified about new releases from your favorite artists
+- 🎨 **Custom Themes** - Personalize your music player with beautiful themes
+- 🌐 **Cloud Sync** - Sync your playlists across all devices
+- 🎵 **Enhanced Audio Quality** - Premium audio processing and lossless streaming
+- 🤖 **AI Recommendations** - Smart music discovery based on your taste
+- 📻 **Radio Stations** - Curated radio stations from around the world
+
+Every contribution helps make Panam Tunes better for everyone! ❤️
+
+---
+
 ## 📞 Support & Contact
 
 Having issues or suggestions? We'd love to hear from you!
