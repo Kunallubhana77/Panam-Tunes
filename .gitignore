@@ -1,0 +1,10 @@
+# Panam Tunes Repository
+
+*.DS_Store
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.vscode/
+.idea/
