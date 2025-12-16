@@ -187,7 +187,7 @@ Every contribution helps make Panam Tunes better for everyone! ❤️
 Having issues or suggestions? We'd love to hear from you!
 
 - 🌐 Website: [https://panamtunes.github.io](https://panamtunes.github.io)
-- 📧 Email: support@panamtunes.com
+- 📧 Email: techqubit77@gmail.com
 - 💬 Join our community for updates and support
 
 ---
