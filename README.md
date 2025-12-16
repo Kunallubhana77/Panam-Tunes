@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="logo.png" alt="Panam Tunes Logo" width="200"/>
   
   # 🎵 Panam Tunes
   
@@ -68,20 +67,19 @@
 
 <div align="center">
   
-  ### Main Player Interface
-  <img src="screenshots/main-player.png" alt="Main Player" width="250"/>
+  <img src="screenshots/1.jpg" alt="Panam Tunes App" width="250"/>
+  <img src="screenshots/2 (1).jpg" alt="Music Player" width="250"/>
+  <img src="screenshots/3 (1).jpg" alt="App Interface" width="250"/>
   
-  ### Playlists
-  <img src="screenshots/playlists.png" alt="Playlists View" width="250"/>
+  <img src="screenshots/4.jpg" alt="Playlist View" width="250"/>
+  <img src="screenshots/5.jpg" alt="Song Library" width="250"/>
+  <img src="screenshots/6.jpg" alt="Music Controls" width="250"/>
   
-  ### Synchronized Lyrics
-  <img src="screenshots/lyrics.png" alt="Lyrics Feature" width="250"/>
+  <img src="screenshots/7.jpg" alt="Search Feature" width="250"/>
+  <img src="screenshots/8.jpg" alt="App Features" width="250"/>
+  <img src="screenshots/9.jpg" alt="Music Player Interface" width="250"/>
   
-  ### Sleep Timer
-  <img src="screenshots/sleep-timer.png" alt="Sleep Timer" width="250"/>
-  
-  ### Sidebar Navigation
-  <img src="screenshots/sidebar.png" alt="Navigation Menu" width="250"/>
+  <img src="screenshots/10.jpg" alt="Panam Tunes" width="250"/>
   
 </div>
 
